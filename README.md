@@ -1,31 +1,18 @@
-Custom Operating System (OS)
-A minimal custom operating system built from scratch as a learning experiment.
+Custom Operating System (OS) Project
+Welcome to the Custom OS project, a minimalist operating system developed from scratch as an educational endeavor into low-level system programming and OS fundamentals.
 
-Overview
-This project is a simple operating system developed to understand low-level system programming, hardware interaction, and core OS concepts like bootloaders, memory management, and basic kernel functionality.
+Key Features:
+Bootloader: Manages the initial boot process, essential for loading the OS kernel.
 
-Key Features
-Bootloader: Handles the initial boot process (may use GRUB or a custom one).
+Kernel: Basic monolithic kernel with interrupt handling for system operations.
 
-Kernel: Basic monolithic kernel with interrupt handling.
+Memory Management: Implements simple paging and memory allocation strategies.
 
-Memory Management: Simple paging/memory allocation.
+Basic Drivers: Supports keyboard and screen input-output for text-based interactions.
 
-Basic Drivers: Keyboard/screen input-output (text-based).
+Shell: Provides a minimal command-line interface (CLI) for user interaction.
 
-Shell: Minimal command-line interface (if implemented).
+Technologies Used:
+Languages: Primarily C for kernel development, complemented by Assembly for boot and bare-metal components.
 
-Technologies Used
-Language: Primarily C (kernel) + Assembly (boot/bare-metal parts).
-
-Tools: GCC, NASM, QEMU (for emulation), Make (build automation).
-
-How to Build/Run
--> Build & run via QEMU: (make run)
-
-Future Goals
-Add multitasking (basic scheduler).
-
-Implement a simple filesystem.
-
-Support more hardware (e.g., mouse, disk).
+Tools: Utilizes GCC for compilation, NASM for assembly programming, QEMU for emulation, and Make for build automation.
