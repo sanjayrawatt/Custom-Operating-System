@@ -39,3 +39,15 @@ Welcome to **Custom OS**, a minimalist operating system built entirely from scra
    ```bash
    git clone https://github.com/your-username/custom-os.git
    cd custom-os
+
+2. **Build and run the OS with QEMU:**
+   ```bash
+   make run
+### 🎯 Future Goals
+
+- 🧵 Multitasking – Introduce a basic process scheduler.
+- 📁 Filesystem – Develop a simple custom filesystem for file operations.  
+- 🖱️ Hardware Support – Add drivers for mouse, disk, and other peripherals.  
+- 🧪 Testing Framework – Add basic unit tests for kernel components.
+
+---
