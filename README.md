@@ -18,7 +18,7 @@ Welcome to **Custom OS**, a minimalist operating system built entirely from scra
 
 - **Languages:** C (for kernel logic), Assembly (for boot & low-level operations)  
 - **Tools:** GCC, NASM, QEMU (emulator), Make (build automation)  
-- **Platform:** x86 (32-bit)
+- **Platform:** ARM64
 
 ---
 
