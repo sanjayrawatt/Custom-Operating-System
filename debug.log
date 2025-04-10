@@ -1,0 +1,26 @@
+00000000000i[      ] LTDL_LIBRARY_PATH not set. using compile time default '/usr/local/Cellar/bochs/3.0/lib/bochs/plugins'
+00000000000i[      ] BXSHARE not set. using compile time default '/usr/local/Cellar/bochs/3.0/share/bochs'
+00000000000i[      ] lt_dlhandle is 0x7fa93e038570
+00000000000i[PLUGIN] loaded plugin libbx_serial.so
+00000000000i[      ] lt_dlhandle is 0x7fa93e03b550
+00000000000i[PLUGIN] loaded plugin libbx_speaker.so
+00000000000i[      ] lt_dlhandle is 0x7fa93e03bc10
+00000000000i[PLUGIN] loaded plugin libbx_unmapped.so
+00000000000i[      ] lt_dlhandle is 0x7fa93e03be40
+00000000000i[PLUGIN] loaded plugin libbx_parallel.so
+00000000000i[      ] lt_dlhandle is 0x7fa93e03d220
+00000000000i[PLUGIN] loaded plugin libbx_biosdev.so
+00000000000i[      ] lt_dlhandle is 0x7fa93e03d540
+00000000000i[PLUGIN] loaded plugin libbx_iodebug.so
+00000000000i[      ] lt_dlhandle is 0x7fa93e03d750
+00000000000i[PLUGIN] loaded plugin libbx_extfpuirq.so
+00000000000i[      ] reading configuration from bochsrc.txt
+00000000000i[      ] lt_dlhandle is 0x7fa93e03db20
+00000000000i[PLUGIN] loaded plugin libbx_textconfig.so
+00000000000i[      ] lt_dlhandle is 0x7fa93e03db80
+00000000000i[PLUGIN] loaded plugin libbx_sdl2_gui.so
+00000000000i[      ] installing sdl2 module as the Bochs GUI
+00000000000i[SDL2  ] maximum host resolution: x=2560 y=1664
+00000000000i[      ] using log file bochslog.txt
+2025-03-29 10:57:07.522 bochs[98255:4674783] +[IMKClient subclass]: chose IMKClient_Modern
+2025-03-29 10:57:07.522 bochs[98255:4674783] +[IMKInputSession subclass]: chose IMKInputSession_Modern

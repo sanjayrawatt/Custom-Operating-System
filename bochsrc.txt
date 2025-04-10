@@ -1,0 +1,7 @@
+megs: 128
+romimage: file=/usr/local/Cellar/bochs/3.0/share/bochs/BIOS-bochs-latest
+vgaromimage: file=/usr/local/Cellar/bochs/3.0/share/bochs/VGABIOS-lgpl-latest
+floppya: 1_44=build/disk.img, status=inserted
+boot: floppy
+display_library: sdl2
+log: bochslog.txt
